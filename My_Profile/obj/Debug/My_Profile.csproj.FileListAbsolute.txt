@@ -1,0 +1,6 @@
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\My_Profile\bin\Debug\My_Profile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\My_Profile\bin\Debug\My_Profile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\My_Profile\obj\Debug\My_Profile.csproj.AssemblyReference.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\My_Profile\obj\Debug\My_Profile.csproj.CoreCompileInputs.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\My_Profile\obj\Debug\My_Profile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\My_Profile\obj\Debug\My_Profile.pdb

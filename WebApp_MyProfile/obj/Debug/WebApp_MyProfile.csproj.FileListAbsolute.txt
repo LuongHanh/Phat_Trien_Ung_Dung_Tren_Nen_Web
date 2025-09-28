@@ -1,0 +1,12 @@
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\WebApp_MyProfile.dll.config
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\WebApp_MyProfile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\WebApp_MyProfile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\My_Profile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\Newtonsoft.Json.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\My_Profile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\bin\Newtonsoft.Json.xml
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\obj\Debug\WebApp_MyProfile.csproj.AssemblyReference.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\obj\Debug\WebApp_MyProfile.csproj.CoreCompileInputs.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\obj\Debug\WebApp_M.DD10DD38.Up2Date
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\obj\Debug\WebApp_MyProfile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WebApp_MyProfile\obj\Debug\WebApp_MyProfile.pdb

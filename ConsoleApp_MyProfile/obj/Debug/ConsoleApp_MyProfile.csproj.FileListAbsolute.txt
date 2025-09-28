@@ -1,0 +1,9 @@
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\bin\Debug\ConsoleApp_MyProfile.exe
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\bin\Debug\ConsoleApp_MyProfile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\bin\Debug\My_Profile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\bin\Debug\My_Profile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\obj\Debug\ConsoleApp_MyProfile.csproj.AssemblyReference.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\obj\Debug\ConsoleApp_MyProfile.csproj.CoreCompileInputs.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\obj\Debug\ConsoleA.9643295C.Up2Date
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\obj\Debug\ConsoleApp_MyProfile.exe
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\ConsoleApp_MyProfile\obj\Debug\ConsoleApp_MyProfile.pdb

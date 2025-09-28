@@ -1,0 +1,9 @@
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\bin\Debug\WindowForms_MyProfile.exe
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\bin\Debug\WindowForms_MyProfile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\obj\Debug\WindowForms_MyProfile.csproj.AssemblyReference.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\obj\Debug\WindowForms_MyProfile.csproj.CoreCompileInputs.cache
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\obj\Debug\WindowForms_MyProfile.exe
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\obj\Debug\WindowForms_MyProfile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\bin\Debug\My_Profile.dll
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\bin\Debug\My_Profile.pdb
+E:\DataAutoBackup\LEARN-CODE\PhatTrienUngDungTrenNenWeb\My_Profile\WindowForms_MyProfile\obj\Debug\WindowFo.ED341F6A.Up2Date
